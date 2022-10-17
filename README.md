@@ -47,4 +47,4 @@ Diploma Thesis: â€œOvercomplete Dictionary Learning for Sparse Representationsâ€
 
   
 
-Panagiotis S. Georgantopoulos @ 2021
+Panagiotis S. Georgantopoulos @ 2022
