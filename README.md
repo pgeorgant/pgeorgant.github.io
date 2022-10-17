@@ -34,9 +34,7 @@ Georgantopoulos, P. S., Papadimitriou, D., Constantinopoulos, C., Manios, T., Da
 
 Phd Dissertation Title: “Neural Networks Inspired By Differential Equations”.  
 *Advisors:*
-[E. Z. Psarakis](http://xanthippi.ceid.upatras.gr/people/psarakis/personal.php), Associate Professor. 
-[D. Kosmopoulos](http://culturetechlab.culture.upatras.gr/), Associate Professor.  
-[G. Moustakides](http://www.ssp.ece.upatras.gr/moustakides/), Professor.  
+[E. Z. Psarakis](http://xanthippi.ceid.upatras.gr/people/psarakis/personal.php), Associate Professor, [D. Kosmopoulos](http://culturetechlab.culture.upatras.gr/), Associate Professor, [G. Moustakides](http://www.ssp.ece.upatras.gr/moustakides/), Professor.  
 
 
 \[2019-\] MSc Information Processing Systems and Machine Interlligence (INF\_INT), Polytechnic School, University of Patras.  
