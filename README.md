@@ -16,7 +16,7 @@ MSc student @[INF\_INT](http://xanthippi.ceid.upatras.gr/dsp/)
 Research interests: _Neural Networks, Machine Vision, Machine Learning, Continuous Time Neural Models._
 
 
-Publications  
+*Publications*
 
 * * *
 
@@ -25,7 +25,7 @@ Georgantopoulos, P. S., C. Constantinopoulos, and D. Kosmopoulos. "Tomato Diseas
 
 Georgantopoulos, P. S., Papadimitriou, D., Constantinopoulos, C., Manios, T., Daliakopoulos, I., & Kosmopoulos, D. (2022). A Multispectral Dataset for the Detection of Tuta Αbsoluta and Leveillula Τaurica in Tomato Plants. Available at SSRN 4141211. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=41$) 
 
-Education
+*Education*
 
 * * *
 
