@@ -33,19 +33,17 @@ Georgantopoulos, P. S., Papadimitriou, D., Constantinopoulos, C., Manios, T., Da
 \[2019-\] Phd candidate, CEID, Polytechnic School, University of Patras.  
 
 Phd Dissertation Title: “Neural Networks Inspired By Differential Equations”.  
-    Advisors:
-
-        [E. Z. Psarakis](http://xanthippi.ceid.upatras.gr/people/psarakis/personal.php), Associate Professor.  
-        [D. Kosmopoulos](http://culturetechlab.culture.upatras.gr/), Associate Professor.  
-        [G. Moustakides](http://www.ssp.ece.upatras.gr/moustakides/), Professor.  
-
+*Advisors:*
+[E. Z. Psarakis](http://xanthippi.ceid.upatras.gr/people/psarakis/personal.php), Associate Professor. 
+[D. Kosmopoulos](http://culturetechlab.culture.upatras.gr/), Associate Professor.  
+[G. Moustakides](http://www.ssp.ece.upatras.gr/moustakides/), Professor.  
 
 
 \[2019-\] MSc Information Processing Systems and Machine Interlligence (INF\_INT), Polytechnic School, University of Patras.  
   
 \[2013-2019\] Computer Engineering and Informatics Dpt. (CEID), Polytechnic School, University of Patras (G.P.A: 7.40).  
 
-            Diploma Thesis: “Overcomplete Dictionary Learning for Sparse Representations”, Supervisor: E. Z. Psarakis, Associate Professor. \[[link](https://nemertes.library.upatras.gr/jspui/bitstream/10889/12845/6/Nemertes_Georgantopoulos%28com%29.pdf)\]
+Diploma Thesis: “Overcomplete Dictionary Learning for Sparse Representations”, Supervisor: E. Z. Psarakis, Associate Professor. \[[link](https://nemertes.library.upatras.gr/jspui/bitstream/10889/12845/6/Nemertes_Georgantopoulos%28com%29.pdf)\]
 
   
   
