@@ -13,17 +13,17 @@ Last update: September 2022
 PhD researcher @ [Computer Engineering and Informatics Dpt., University of Patras](https://www.ceid.upatras.gr), advisor: [Assoc. Prof. Emmanouil Psarakis](http://xanthippi.ceid.upatras.gr/people/psarakis/personal.php).  
 MSc student @[INF\_INT](http://xanthippi.ceid.upatras.gr/dsp/)  
   
-Research interests: _Neural Networks, Machine Vision, Machine Learning, Continuous Time Neural Models._
+Research interests: _Deep Neural Networks, Machine Vision._
 
 
 ### Publications
 
 * * *
 
-Georgantopoulos, P. S., C. Constantinopoulos, and D. Kosmopoulos. "Tomato Disease Classification using AlexNet." Mosaic 299: 74. \[[link](https://soup-project.gr/wp-content/uploads/2020/08/Tomato-Disease-Classification-using-AlexNet.pdf)\]
+\[SOUP PROJECT\] Georgantopoulos, P. S., C. Constantinopoulos, and D. Kosmopoulos. "Tomato Disease Classification using AlexNet." Mosaic 299: 74. \[[link](https://soup-project.gr/wp-content/uploads/2020/08/Tomato-Disease-Classification-using-AlexNet.pdf)\]
 
 
-Georgantopoulos, P. S., Papadimitriou, D., Constantinopoulos, C., Manios, T., Daliakopoulos, I., & Kosmopoulos, D. (2022). A Multispectral Dataset for the Detection of Tuta Αbsoluta and Leveillula Τaurica in Tomato Plants. Available at SSRN 4141211. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=41$) 
+\[SOUP PROJECT\] Georgantopoulos, P. S., Papadimitriou, D., Constantinopoulos, C., Manios, T., Daliakopoulos, I., & Kosmopoulos, D. (2022). A Multispectral Dataset for the Detection of Tuta Αbsoluta and Leveillula Τaurica in Tomato Plants. Available at SSRN 4141211. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=41$) 
 
 ### Education
 
