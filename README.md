@@ -1,4 +1,5 @@
-### pgeorgant{[.github.io](pgeorgant.github.io), [@ceid.upatras.gr](pgeorgant@ceid.upatras.gr)}
+#### [github.com/pgeorgant](github.com/pgeorgant)
+#### [pgeorgant@ceid.upatras.gr](mailto:pgeorgant@ceid.upatras.gr)
 
 
 September 2023
@@ -15,10 +16,10 @@ Academic interests: **_Deep Learning, Dynamical Systems_**
 
 * * *
 
-\[SOUP PROJECT\] Georgantopoulos, P. S., C. Constantinopoulos, and D. Kosmopoulos. "Tomato Disease Classification using AlexNet." Mosaic 299: 74. \[[link](https://soup-project.gr/wp-content/uploads/2020/08/Tomato-Disease-Classification-using-AlexNet.pdf)\]
+\[[SOUP PROJECT](https://soup-project.gr/)\] Georgantopoulos, P. S., C. Constantinopoulos, and D. Kosmopoulos. "Tomato Disease Classification using AlexNet." Mosaic 299: 74. \[[link](https://soup-project.gr/wp-content/uploads/2020/08/Tomato-Disease-Classification-using-AlexNet.pdf)\]
 
 
-\[SOUP PROJECT\] Georgantopoulos, P. S., Papadimitriou, D., Constantinopoulos, C., Manios, T., Daliakopoulos, I., & Kosmopoulos, D. (2022). A Multispectral Dataset for the Detection of Tuta Αbsoluta and Leveillula Τaurica in Tomato Plants. Available at SSRN 4141211. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=41$) 
+\[[SOUP PROJECT](https://soup-project.gr/)\] Georgantopoulos, P. S., Papadimitriou, D., Constantinopoulos, C., Manios, T., Daliakopoulos, I., & Kosmopoulos, D. (2022). A Multispectral Dataset for the Detection of Tuta Αbsoluta and Leveillula Τaurica in Tomato Plants. Available at SSRN 4141211. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=41$) 
 
 
 ### Education
