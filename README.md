@@ -42,11 +42,11 @@ Academic interests: **_Deep Learning, Dynamical Systems_**
 
 * * *
 
-Rudin. (n.d.). Real and Complex Analysis. https://59clc.files.wordpress.com/2011/01/real-and-complex-analysis.pdf
+Rudin. (n.d.). [Real and Complex Analysis](https://59clc.files.wordpress.com/2011/01/real-and-complex-analysis.pdf).
 
-Hubbard, & West. (n.d.). Differential Equations: A Dynamical Systems Approach -. https://www-fourier.ujf-grenoble.fr/~dehornop/livres/HW2.pdf
+Hubbard, & West. (n.d.). [Differential Equations: A Dynamical Systems Approach](https://www-fourier.ujf-grenoble.fr/~dehornop/livres/HW2.pdf).
 
-Simon, D. (2006). Optimal State Estimation: Kalman, H∞, and Nonlinear Approaches. John Wiley & Sons, Inc. https://doi.org/10.1002/0470045345
+Simon, D. (2006). [Optimal State Estimation: Kalman, H∞, and Nonlinear Approaches. John Wiley & Sons, Inc](https://doi.org/10.1002/0470045345).
 
 Helmke, U., & Moore, J. B. (n.d.). Optimization and Dynamical Systems. 414.
 
