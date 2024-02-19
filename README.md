@@ -1,7 +1,8 @@
 [github.com/pgeorgant](https://github.com/pgeorgant)
 
-[pgeorgant@ceid.upatras.gr](mailto:pgeorgant@ceid.upatras.gr)
+[pgeorganto@ac.upatras.gr](mailto:pgeorganto@ac.upatras.gr)
 
+[linkedin.com/in/panagiotis-georgantopoulos](https://www.linkedin.com/in/panagiotis-georgantopoulos)
 
 September 2023
 
