@@ -1,6 +1,6 @@
 [github.com/pgeorgant](https://github.com/pgeorgant)
 
-[pgeorganto@ac.upatras.gr](mailto:pgeorganto@ac.upatras.gr)
+[pgeorgant@ceid.upatras.gr](mailto:pgeorgant@ceid.upatras.gr), [pgeorganto@ac.upatras.gr](mailto:pgeorganto@ac.upatras.gr)
 
 [linkedin.com/in/panagiotis-georgantopoulos](https://www.linkedin.com/in/panagiotis-georgantopoulos)
 
