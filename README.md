@@ -1,20 +1,18 @@
-[github.com/pgeorgant](https://github.com/pgeorgant)
+<!--[github.com/pgeorgant](https://github.com/pgeorgant)
 
-[pgeorgant@ceid.upatras.gr](mailto:pgeorgant@ceid.upatras.gr), [pgeorganto@ac.upatras.gr](mailto:pgeorganto@ac.upatras.gr)
+#[pgeorgant@ceid.upatras.gr](mailto:pgeorgant@ceid.upatras.gr), [pgeorganto@ac.upatras.gr](mailto:pgeorganto@ac.upatras.gr)-->
+# Panagiotis Georgantopoulos, ML Researcher, MEng.
 
 [linkedin.com/in/panagiotis-georgantopoulos](https://www.linkedin.com/in/panagiotis-georgantopoulos)
-
-April 2024
+[NTUA](mailto:pgeograntopoulos@mail.ntua.gr), [UPatras](mailto:pgeogrant@ceid.upatras.gr)
+March 2025
 
 * * *
 
-PhD student @ [SPC Lab.](http://xanthippi.ceid.upatras.gr/), [CEID](http://www.ceid.upatras.gr), [UPatras](http://www.upatras.gr), Rio, Greece  
-  
+<!--#PhD student @ [SPC Lab.](http://xanthippi.ceid.upatras.gr/), [CEID](http://www.ceid.upatras.gr), [UPatras](http://www.upatras.gr), Rio, Greece  -->
 Academic interests: **_Deep Learning, Dynamical Systems_**
 
-
-
-### Publications
+# Publications
 
 * * *
 
@@ -23,13 +21,14 @@ Academic interests: **_Deep Learning, Dynamical Systems_**
 
 \[[SOUP PROJECT](https://soup-project.gr/)\] Georgantopoulos, P. S., Papadimitriou, D., Constantinopoulos, C., Manios, T., Daliakopoulos, I., & Kosmopoulos, D. (2022). A Multispectral Dataset for the Detection of Tuta Αbsoluta and Leveillula Τaurica in Tomato Plants. Available at SSRN 4141211. \[[link](https://www.sciencedirect.com/science/article/pii/S2772375522001101?via%3Dihub)\] 
 
+see [scholar.google.com](https://scholar.google.com/citations?user=abCbAJAAAAAJ&hl=en)
 
-### Education
+# Education
 
 * * *
 
 
-\[2019-\] Phd candidate, CEID, Polytechnic School, University of Patras.  
+\[2019-\] Phd student, CEID, Polytechnic School, University of Patras.  
           “Neural Networks Inspired By Differential Equations”.  advisors: [Prof. E. Z. Psarakis](http://xanthippi.ceid.upatras.gr/people/psarakis/personal.php), [Assoc. Prof. D. Kosmopoulos](http://culturetechlab.culture.upatras.gr/), [Prof. G. Moustakides](http://www.ssp.ece.upatras.gr/moustakides/).
 
 \[2019-2023\] MSc Information Processing Systems and Machine Interlligence (INF\_INT), Polytechnic School, University of Patras.  
