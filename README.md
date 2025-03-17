@@ -1,7 +1,7 @@
 <!--[github.com/pgeorgant](https://github.com/pgeorgant)
 
 #[pgeorgant@ceid.upatras.gr](mailto:pgeorgant@ceid.upatras.gr), [pgeorganto@ac.upatras.gr](mailto:pgeorganto@ac.upatras.gr)-->
-# Panagiotis Georgantopoulos, ML Researcher, MEng.
+# ML Researcher, MEng.
 March 2025
 
 NTUA: pgeograntopoulos@mail.ntua.gr \
