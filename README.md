@@ -2,10 +2,14 @@
 
 #[pgeorgant@ceid.upatras.gr](mailto:pgeorgant@ceid.upatras.gr), [pgeorganto@ac.upatras.gr](mailto:pgeorganto@ac.upatras.gr)-->
 # Panagiotis Georgantopoulos, ML Researcher, MEng.
-
-[linkedin.com/in/panagiotis-georgantopoulos](https://www.linkedin.com/in/panagiotis-georgantopoulos)
-[NTUA](mailto:pgeograntopoulos@mail.ntua.gr), [UPatras](mailto:pgeogrant@ceid.upatras.gr)
 March 2025
+
+NTUA: pgeograntopoulos@mail.ntua.gr \
+UPatras: pgeogrant@ceid.upatras.gr
+
+[LinkedIn](https://www.linkedin.com/in/panagiotis-georgantopoulos) \
+[Google Scholar](https://scholar.google.com/citations?user=abCbAJAAAAAJ&hl=en)
+
 
 * * *
 
@@ -20,8 +24,6 @@ Academic interests: **_Deep Learning, Dynamical Systems_**
 
 
 \[[SOUP PROJECT](https://soup-project.gr/)\] Georgantopoulos, P. S., Papadimitriou, D., Constantinopoulos, C., Manios, T., Daliakopoulos, I., & Kosmopoulos, D. (2022). A Multispectral Dataset for the Detection of Tuta Αbsoluta and Leveillula Τaurica in Tomato Plants. Available at SSRN 4141211. \[[link](https://www.sciencedirect.com/science/article/pii/S2772375522001101?via%3Dihub)\] 
-
-see [scholar.google.com](https://scholar.google.com/citations?user=abCbAJAAAAAJ&hl=en)
 
 # Education
 
